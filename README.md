@@ -1,5 +1,5 @@
 # vuebox-modal 
-(this project is in alpha development.  the package is not yet available on NPM and will be released when it is working and stable)
+_this project is in alpha development.  the package is not yet available on NPM and will be released when it is working and stable_
 
 ## Summary
 
