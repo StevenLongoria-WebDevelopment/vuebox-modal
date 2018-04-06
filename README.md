@@ -15,4 +15,5 @@ The various components in this package utilize slots to allow you to plug whatev
 * title
 * body
 * footer
+
 Each modal has a base header style based on the type of component you use, in conformation with standard Warning, Danger, and Info styles in the supported CSS frameworks. 
